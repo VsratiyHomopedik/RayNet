@@ -14,7 +14,7 @@ MHProDev
 Empfaked
 ```sh
 (Methods <3)
-Z3NTL3<br>
+Z3NTL3
 (UI <3)
 N0rmie
 (Ideas <3)```
