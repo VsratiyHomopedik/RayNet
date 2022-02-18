@@ -1,6 +1,9 @@
 # RayNet DDoS v1
 2 Bypass 🐐<br>Layer 7 Methods ⚡<br>Layer 4 Methods ⚡<br>Tools 🛠️<br>
 
+# Image:
+![GitHub Logo](img.png)
+
 # Installation:
 ```sh
 git clone https://github.com/SkyWtkh/RayNet
@@ -11,8 +14,6 @@ pip3 install scapy
 pip3 install icmplib
 python3 "ray"
 ```
-# Image:
-![GitHub Logo](img.png)
 
 # Credits
 ```sh
