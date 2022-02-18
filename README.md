@@ -7,6 +7,8 @@ git clone https://github.com/SkyWtkh/RayNet
 sudo apt-get install python3
 sudo apt-get install python3-pip
 cd RayNet
+pip3 install scapy
+pip3 install icmplib
 python3 "ray"
 ```
 # Credits
