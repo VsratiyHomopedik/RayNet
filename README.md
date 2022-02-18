@@ -19,7 +19,8 @@ Empfaked
 Z3NTL3
 (UI <3)
 N0rmie
-(Ideas <3)```
+(Ideas <3)
+```
 
 # TOS:
 ```sh
