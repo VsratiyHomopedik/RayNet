@@ -1,9 +1,9 @@
-# RainNet DDoS v1
+# RayNet DDoS v1
 2 Bypass 🐐<br>Layer 7 Methods ⚡<br>Layer 4 Methods ⚡<br>Tools 🛠️<br>
 
 # Installation:
 ```sh
-git clone https://github.com/SkyWtkh/RainNet
+git clone https://github.com/SkyWtkh/RayNet
 sudo apt-get install python3
 sudo apt-get install python3-pip
 sudo python3 installer.py
