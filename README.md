@@ -24,5 +24,7 @@ N0rmie
 
 # TOS:
 ```sh
-Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), the creator is not responsible for the damage caused by the attacks. remember: you are responsible for the attacks since this tool was created for educational purposes
+Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
+the creator is not responsible for the damage caused by the attacks. 
+remember: you are responsible for the attacks since this tool was created for educational purposes
 ```
