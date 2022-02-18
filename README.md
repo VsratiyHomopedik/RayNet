@@ -10,4 +10,4 @@ sudo python3 installer.py
 python3 "ray"
 ```
 # Credits
-MHProDev<br>Empfaked<br>(Methods <3)<br>Z3NTL3<br>(UI <3)
+MHProDev<br>Empfaked<br>(Methods <3)<br>Z3NTL3<br>(UI <3)<br>N0rmie<br>(Ideas <3)
