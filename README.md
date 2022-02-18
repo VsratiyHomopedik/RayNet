@@ -12,8 +12,11 @@ python3 "ray"
 # Credits
 MHProDev<br>
 Empfaked<br>
-<code>(Methods <3)<code><br>
+```sh
+(Methods <3)```<br>
 Z3NTL3<br>
-<code>(UI <3)<br>
-N0rmie<br><code>
-(Ideas <3)
+```sh
+(UI <3)<br>```
+N0rmie<br>
+```sh
+(Ideas <3)```
