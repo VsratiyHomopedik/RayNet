@@ -1,4 +1,4 @@
-# RayNet v2 *Announcement*
+# RayNet v2 🐐
 > RayNet version 2 will bring: new methods + new tools + installer!
 4 Bypass 🐐<br>Layer 7 Methods ⚡<br>Layer 4 Methods ⚡<br>Tools 🛠️<br>
 
