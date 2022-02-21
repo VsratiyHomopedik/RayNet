@@ -20,6 +20,7 @@ sudo python3 "ray"
 MHProDev
 Empfaked
 im-federal
+R00tS3C
 (Methods <3)
 Z3NTL3
 (UI <3)
