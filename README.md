@@ -33,3 +33,9 @@ Do not attack government pages (.gov/.gob), educational pages (.edu) or the Unit
 the creator is not responsible for the damage caused by the attacks. 
 remember: you are responsible for the attacks since this tool was created for educational purposes
 ```
+
+# NOTE:
+```sh
+The methods for Layer 4 may fail 
+(except those of ovh) but soon I will improve the methods!
+```
