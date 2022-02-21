@@ -1,5 +1,6 @@
-# RayNet DDoS v1
-2 Bypass 🐐<br>Layer 7 Methods ⚡<br>Layer 4 Methods ⚡<br>Tools 🛠️<br>
+# RayNet v2 *Announcement*
+> RayNet version 2 will bring: new methods + new tools + installer!
+4 Bypass 🐐<br>Layer 7 Methods ⚡<br>Layer 4 Methods ⚡<br>Tools 🛠️<br>
 
 # Image:
 ![GitHub Logo](img.png)
@@ -10,15 +11,15 @@ git clone https://github.com/SkyWtkh/RayNet
 sudo apt-get install python3
 sudo apt-get install python3-pip
 cd RayNet
-pip3 install scapy
-pip3 install icmplib
-python3 "ray"
+sudo python3 installer.py
+sudo python3 "ray"
 ```
 
 # Credits
 ```sh
 MHProDev
 Empfaked
+im-federal
 (Methods <3)
 Z3NTL3
 (UI <3)
