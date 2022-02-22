@@ -12,6 +12,7 @@ sudo apt-get install python3
 sudo apt-get install python3-pip
 cd RayNet
 sudo python3 installer.py
+ulimit -n 999999
 sudo python3 "ray"
 ```
 
