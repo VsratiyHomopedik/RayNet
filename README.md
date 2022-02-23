@@ -38,6 +38,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # NOTE:
 ```sh
-The methods for Layer 4 may fail 
-(except those of ovh) but soon I will improve the methods!
+THE METHODS FOR LAYER 4 ARE NOT WORKING!
+IN THE NEXT UPDATE THEY WILL BE ACTIVE
 ```
